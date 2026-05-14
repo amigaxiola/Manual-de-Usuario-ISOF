@@ -29,6 +29,19 @@
               <i class="nav-icon fas fa-edit"></i>
               <p>elemento</p>
             </a>
+          </li>
+          <li class="nav-item">
+             <a href="index.php?fase=menu_principal" class="nav-link">
+                <i class="nav-icon fas fa-book"></i>
+                <p>Menú principal</p>
+            </a>
+          </li>
+          <li class="nav-item">
+             <a href="index.php?fase=registro_sabores" class="nav-link">
+                <i class="nav-icon fas fa-book"></i>
+                <p>Registro de sabores del día</p>
+            </a>
+          </li>
         </ul>
       </nav>
       <!-- /.sidebar-menu -->

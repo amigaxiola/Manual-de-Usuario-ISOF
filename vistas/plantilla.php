@@ -30,7 +30,9 @@ if (isset($_GET["fase"]))
           {
             if ($_GET["fase"] == "inicio" ||
                 $_GET["fase"] == "requisitos"||
-                $_GET["fase"] == "elemento")
+                $_GET["fase"] == "elemento"||
+                $_GET["fase"] == "menu_principal"||
+                $_GET["fase"] == "registro_sabores")
               {
                 include "modulos/".$_GET["fase"].".php";
               }
