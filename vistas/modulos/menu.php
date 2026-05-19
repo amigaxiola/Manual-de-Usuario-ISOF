@@ -26,9 +26,9 @@
           </li>
           <li class="nav-item">
             <a href="index.php?fase=login" class="nav-link">
-              <i class="nav-icon fas fa-circle"></i>
+             <i class="nav-icon fas fa-circle"></i>
               <p>Inicio de sesión</p>
-</a>
+            </a>
           </li>
           <li class="nav-item">
              <a href="index.php?fase=menu_principal" class="nav-link">
@@ -49,37 +49,37 @@
             </a>
           </li>
           <li class="nav-item">
-             <a href="index.php?fase=interfaz_ventas" class="nav-link">
+             <a href="index.php?fase=ventas" class="nav-link">
                 <i class="nav-icon fas fa-book"></i>
                 <p>Interfaz de ventas</p>
             </a>
           </li>
           <li class="nav-item">
-             <a href="index.php?fase=interfaz_reportes" class="nav-link">
+             <a href="index.php?fase=reportes" class="nav-link">
                 <i class="nav-icon fas fa-book"></i>
                 <p>Interfaz de reportes</p>
             </a>
           </li>
           <li class="nav-item">
-             <a href="index.php?fase=interfaz_sabores" class="nav-link">
+             <a href="index.php?fase=sabores" class="nav-link">
                 <i class="nav-icon fas fa-book"></i>
                 <p>Interfaz de sabores</p>
             </a>
           </li>
           <li class="nav-item">
-             <a href="index.php?fase=interfaz_insumos" class="nav-link">
+             <a href="index.php?fase=insumos" class="nav-link">
                 <i class="nav-icon fas fa-book"></i>
                 <p>Interfaz de control de insumos</p>
             </a>
           </li>
           <li class="nav-item">
-             <a href="index.php?fase=interfaz_compras" class="nav-link">
+             <a href="index.php?fase=compras" class="nav-link">
                 <i class="nav-icon fas fa-book"></i>
                 <p>Interfaz de compras</p>
             </a>
           </li>
           <li class="nav-item">
-             <a href="index.php?fase=interfaz_produccion" class="nav-link">
+             <a href="index.php?fase=produccion" class="nav-link">
                 <i class="nav-icon fas fa-book"></i>
                 <p>Interfaz de control de producción</p>
             </a>

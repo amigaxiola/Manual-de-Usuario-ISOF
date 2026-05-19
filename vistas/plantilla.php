@@ -32,6 +32,12 @@ if (isset($_GET["fase"]))
                 $_GET['fase'] == "login" ||
                 $_GET["fase"] == "menu_principal"||
                 $_GET["fase"] == "registro_usuarios" ||
+                $_GET["fase"] == "ventas" ||
+                $_GET["fase"] == "reportes" ||
+                $_GET["fase"] == "sabores" ||
+                $_GET["fase"] == "insumos" ||
+                $_GET["fase"] == "compras"  ||
+                $_GET["fase"] == "produccion" ||
                 $_GET["fase"] == "registro_sabores")
               {
                 include "modulos/".$_GET["fase"].".php";
