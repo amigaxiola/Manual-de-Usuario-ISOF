@@ -11,6 +11,8 @@
   <link rel="stylesheet" href="vistas/plugins/fontawesome-free/css/all.min.css">
   <!-- Theme style -->
   <link rel="stylesheet" href="vistas/dist/css/adminlte.css">
+  <!-- Custom CSS -->
+  <link rel="stylesheet" href="vistas/dist/css/custom.css">
   <!-- jQuery -->
   <script src="vistas/plugins/jquery/jquery.min.js"></script>
   <!-- Bootstrap 4 -->

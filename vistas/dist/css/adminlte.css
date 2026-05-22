@@ -15473,7 +15473,7 @@ body.text-sm .control-sidebar {
 }
 
 .nav-pills .nav-link {
-  color: #6c757d;
+  color:white;
 }
 
 .nav-pills .nav-link:not(.active):hover {
@@ -53008,5 +53008,12 @@ a.text-muted:hover {
 
 .dark-mode .border-dark {
   border-color: #4b545c !important;
+}
+.main-sidebar .nav-link,
+.main-sidebar .nav-link p,
+.main-sidebar .nav-link .nav-icon,
+.main-sidebar .brand-link,
+.main-sidebar .brand-text {
+  color: #fff !important;
 }
 /*# sourceMappingURL=adminlte.css.map */
